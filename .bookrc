@@ -7,5 +7,6 @@
   },
   "name": "Uncle Tom's Cabin",
   "type": "text",
-  "has_page_numbers": true
+  "has_page_numbers": true,
+  "book_id": 715
 }
