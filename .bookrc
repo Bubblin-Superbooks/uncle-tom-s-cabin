@@ -1,0 +1,11 @@
+{
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  },
+  "name": "Uncle Tom's Cabin",
+  "type": "text",
+  "has_page_numbers": true
+}
